@@ -1,4 +1,4 @@
-package uuidx
+package main
 
 import "fmt"
 
